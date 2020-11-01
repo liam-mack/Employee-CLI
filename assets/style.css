@@ -1,0 +1,30 @@
+body{
+    background-color: grey;
+}
+
+.avatar{
+    max-width: 100%;
+    padding: 0;
+}
+
+.placeholder{
+    border-radius: 25px
+}
+
+.card-header{
+    background-image: linear-gradient(black, grey) !important;
+}
+
+.card-title{
+    color: white;
+}
+
+.card{
+    border: black;
+    border-radius: 25px;
+}
+
+.jumbotron {
+    background-color: black;
+    color: white;
+}
